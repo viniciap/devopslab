@@ -34,7 +34,7 @@ jobs:
           fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
       
       - name: Install Requirements
-        run:  pip install tox pytest
+        run:  pip install tox pytest pytest-cov
 
       - name: Run tox
         run: tox -e py
