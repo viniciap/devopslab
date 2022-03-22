@@ -1,4 +1,4 @@
-![example workflow](https://github.com/viniciap/devopslab/actions/workflows/pipeline.yml/badge.svg)
+![Build Status](https://github.com/viniciap/devopslab/actions/workflows/pipeline.yml/badge.svg)
 
 
 # DevOps Hands On
