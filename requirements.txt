@@ -4,3 +4,4 @@ flask-wtf
 pytest
 pytest-cov
 tox
+newrelic
